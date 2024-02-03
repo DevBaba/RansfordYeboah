@@ -1,15 +1,16 @@
 import { useContext, useEffect } from "react";
+import { AboutIcon } from "../assets/icons/icons";
+import AboutMe from "../components/about-me/AboutMe";
 import Contact from "../components/contact/Contact";
 import Header from "../components/header/Header";
-import Hero from "../components/hero/Hero";
-import Projects from "../components/projects/Projects";
+import PageHero from "../components/page-hero/PageHero";
 import Skills from "../components/skills/Skills";
 import { motion, useIsPresent } from "framer-motion";
 import { ThemeContext } from "../App";
 
-interface HomeProps {}
+interface AboutProps {}
 
-const Home: React.FunctionComponent<HomeProps> = () => {
+const About: React.FunctionComponent<AboutProps> = () => {
   useEffect(() => {
     scrollTo(0, 0);
   }, []);
@@ -19,8 +20,13 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   return (
     <div>
       <Header />
-      <Hero />
-      <Projects />
+      <PageHero
+        topIcon={<AboutIcon />}
+        topText="ABOUT RANSFORD YEBOAH"
+        pageHeading="Frontend Developer"
+        extraText="I am a Frontend developer and a Graphic designer based in Accra, Ghana"
+      />
+      <AboutMe />
       <Skills />
       <Contact />
       <motion.div
@@ -42,4 +48,4 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   );
 };
 
-export default Home;
+export default About;

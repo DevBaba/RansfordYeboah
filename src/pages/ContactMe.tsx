@@ -1,15 +1,15 @@
 import { useContext, useEffect } from "react";
+import { PhoneIcon } from "../assets/icons/icons";
 import Contact from "../components/contact/Contact";
+import MeansOfContact from "../components/contact/MeansOfContact";
 import Header from "../components/header/Header";
-import Hero from "../components/hero/Hero";
-import Projects from "../components/projects/Projects";
-import Skills from "../components/skills/Skills";
+import PageHero from "../components/page-hero/PageHero";
 import { motion, useIsPresent } from "framer-motion";
 import { ThemeContext } from "../App";
 
-interface HomeProps {}
+interface ContactMeProps {}
 
-const Home: React.FunctionComponent<HomeProps> = () => {
+const ContactMe: React.FunctionComponent<ContactMeProps> = () => {
   useEffect(() => {
     scrollTo(0, 0);
   }, []);
@@ -19,9 +19,13 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   return (
     <div>
       <Header />
-      <Hero />
-      <Projects />
-      <Skills />
+      <PageHero
+        topIcon={<PhoneIcon />}
+        topText="CONTACT ME"
+        pageHeading="Say hello to me"
+        extraText="You have an idea. Let's talk!"
+      />
+      <MeansOfContact />
       <Contact />
       <motion.div
         initial={{ scaleX: 1 }}
@@ -42,4 +46,4 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   );
 };
 
-export default Home;
+export default ContactMe;

@@ -1,15 +1,16 @@
 import { useContext, useEffect } from "react";
+import { FolderIcon } from "../assets/icons/icons";
 import Contact from "../components/contact/Contact";
 import Header from "../components/header/Header";
-import Hero from "../components/hero/Hero";
+import PageHero from "../components/page-hero/PageHero";
 import Projects from "../components/projects/Projects";
 import Skills from "../components/skills/Skills";
 import { motion, useIsPresent } from "framer-motion";
 import { ThemeContext } from "../App";
 
-interface HomeProps {}
+interface WorksProps {}
 
-const Home: React.FunctionComponent<HomeProps> = () => {
+const Works: React.FunctionComponent<WorksProps> = () => {
   useEffect(() => {
     scrollTo(0, 0);
   }, []);
@@ -19,7 +20,12 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   return (
     <div>
       <Header />
-      <Hero />
+      <PageHero
+        topIcon={<FolderIcon />}
+        topText="PROJECTS"
+        pageHeading="Selected Works"
+        extraText="Not all my projects are included here; some are restricted by NDA"
+      />
       <Projects />
       <Skills />
       <Contact />
@@ -42,4 +48,4 @@ const Home: React.FunctionComponent<HomeProps> = () => {
   );
 };
 
-export default Home;
+export default Works;
