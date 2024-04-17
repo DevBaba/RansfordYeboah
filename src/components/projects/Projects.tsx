@@ -17,12 +17,12 @@ export const projects = [
     url: "https://www.behance.net/developerpalmadesign",
   },
   {
-    name: "Dercolbags",
+    name: "Spex Africa Web App",
     description:
-      "Dercolbags is a web application that allows you to order paper packaging bags conveniently in Accra. Full features of the web application was taken down due to NDA from the client.",
+      "SPEX is a packaging solution that leverages web to connect restaurants / vendors to users seeking sustainable packaging. Full features of the web application was taken down due to NDA from the client.",
     image:
-      "https://res.cloudinary.com/daysgbjom/image/upload/v1706853053/cscanner_zkoz2k_hjhuc5.png",
-    url: "https://dercol-bag-packing-git-main-devbabas-projects.vercel.app",
+      "https://res.cloudinary.com/daysgbjom/image/upload/v1713348220/aera_askzzs.png",
+    url: "https://live.spexafrica.com/",
   },
   {
     name: "Mmofra Twi lessons & Games",
@@ -33,12 +33,13 @@ export const projects = [
     url: "",
   },
   {
-    name: "Foodix delivery app",
+    name: "Dercolbags Website",
     description:
-      "This is a food delivery  application built with Flutter. You can search for any food in accra and order from the vendor. The application is in the pilot stage. will add more details soon.",
+      "A Packaging firm with a mission
+"to empower Women Entrepreneurs to replace Single-Use plastic packages with Eco-friendly packages for a cleaner environment.",
     image:
-      "https://res.cloudinary.com/daysgbjom/image/upload/v1706856086/reee_r66fto.png",
-    url: "",
+      "https://res.cloudinary.com/daysgbjom/image/upload/v1713349386/rryree_fuoobv.png",
+    url: "https://dercolbags.com/",
   },
 ];
 
