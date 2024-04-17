@@ -35,8 +35,7 @@ export const projects = [
   {
     name: "Dercolbags Website",
     description:
-      "A Packaging firm with a mission
-"to empower Women Entrepreneurs to replace Single-Use plastic packages with Eco-friendly packages for a cleaner environment.",
+      "A Packaging firm with a mission to empower Women Entrepreneurs to replace Single-Use plastic packages with Eco-friendly packages for a cleaner environment.",
     image:
       "https://res.cloudinary.com/daysgbjom/image/upload/v1713349386/rryree_fuoobv.png",
     url: "https://dercolbags.com/",
