@@ -19,10 +19,7 @@ export const projects = [
   {
     name: "Quatenne Assistant from Quatenne Group",
     description:
-       "specialized AI agent built for the Ghanaian real estate market. It helps "
-"first-time buyers, diaspora investors, agents, developers, and professionals navigate land "
-"acquisition with guided workflows, document intelligence, red-flag detection, and human"
-"in-the-loop verification. ",
+       " specialized AI agent built for the Ghanaian real estate market. It helps first-time buyers, diaspora investors, agents, developers, and professionals navigate land acquisition with guided workflows, document intelligence, red-flag detection, and humanin-the-loop verification.  ",
     image:
       "https://res.cloudinary.com/daysgbjom/image/upload/v1713348220/aera_askzzs.png",
     url: "https://quatenne.vercel.app/",
