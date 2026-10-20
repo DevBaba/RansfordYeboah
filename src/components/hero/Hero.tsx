@@ -97,7 +97,7 @@ const Hero: React.FunctionComponent<HeroProps> = () => {
               exceptional websites, applications, designing break-taking artworks and leaving a positive impact.
             </p>
             <div className="resumeContainer">
-              <a className="resume" href="/Resume.pdf" target="_blank">
+              <a className="resume" href="/ransfordresume.pdf" target="_blank">
                 <p className="viewCv">
                   <span>Download my CV</span>
                   <span className="arrowIcon">
