@@ -21,18 +21,18 @@ const AboutMe: React.FunctionComponent<AboutMeProps> = () => {
             once
           />
           <p className={theme.isDarkmode ? "deetsTDark" : "deetsT"}>
-            I am a Frontend Developer and a Graphic designer with a three years of professional experience
+            I am a Software and a Creative designer with a 4 and Half years of professional experience
             based in Accra, Ghana. I have a serious passion for UI effects and
             animations, building pixel perfect mobile and web applications, creating
             dynamic user experiences and making every element on the web
             accessible to everyone including those with disabilities.
           </p>
           <p className={theme.isDarkmode ? "deetsTDark" : "deetsT"}>
-            Over the past years I have worked in the food industry, the health
-            sector and the packaging industry. My experience working in these
+            Over the past years I have worked in creating designs and software systems for the food  
+            and the packaging industry. My experience working in these
             various sectors has helped increase my knowledge in building
-            accessible and user friendly web and mobile applications using tools like
-            React,Flutter, Typescript and Electron for mobile and desktop apps.
+            accessible and user friendly web and mobile applications using tools like Adobe Design tools, 
+            Figma,React,Flutter, Typescript and Electron for UI/UX, mobile and desktop apps.
           </p>
           <p className={theme.isDarkmode ? "deetsTDark" : "deetsT"}>
             When i'm off my computer you might find me playing soccer, watching
