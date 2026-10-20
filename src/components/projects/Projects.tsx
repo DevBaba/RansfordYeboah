@@ -17,12 +17,15 @@ export const projects = [
     url: "https://www.behance.net/developerpalmadesign",
   },
   {
-    name: "Spex Africa Web App",
+    name: "Quatenne Assistant from Quatenne Group",
     description:
-      "SPEX is a packaging solution that leverages web to connect restaurants / vendors to users seeking sustainable packaging. Full features of the web application was taken down due to NDA from the client.",
+       "specialized AI agent built for the Ghanaian real estate market. It helps "
+"first-time buyers, diaspora investors, agents, developers, and professionals navigate land "
+"acquisition with guided workflows, document intelligence, red-flag detection, and human"
+"in-the-loop verification. ",
     image:
       "https://res.cloudinary.com/daysgbjom/image/upload/v1713348220/aera_askzzs.png",
-    url: "https://live.spexafrica.com/",
+    url: "https://quatenne.vercel.app/",
   },
   {
     name: "Mmofra Twi lessons & Games",
