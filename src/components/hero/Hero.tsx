@@ -93,7 +93,7 @@ const Hero: React.FunctionComponent<HeroProps> = () => {
             </p>
             <h2 className="name">I'm Ransford Yeboah</h2>
             <p className="extraDetails">
-              I'm a Frontend Developer and a Graphic Designer based in Ghana, I specialize in building
+              I'm a Frontend Developer and a Creative Designer based in Ghana, I specialize in building
               exceptional websites, applications, designing break-taking artworks and leaving a positive impact.
             </p>
             <div className="resumeContainer">
@@ -112,7 +112,7 @@ const Hero: React.FunctionComponent<HeroProps> = () => {
           </div>
           <div className="rightHero">
             <img
-              src="https://res.cloudinary.com/daysgbjom/image/upload/v1709918170/ransford_ikktxc_e1nikz_bedgvh.png"
+              src="https://res.cloudinary.com/daysgbjom/image/upload/v1792459938/QUATENNE_CHARACTER_2_400x-100r_pnxibf.png"
               alt="Ransford-Yeboah"
               draggable={false}
             />
