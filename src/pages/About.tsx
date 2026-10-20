@@ -23,8 +23,8 @@ const About: React.FunctionComponent<AboutProps> = () => {
       <PageHero
         topIcon={<AboutIcon />}
         topText="ABOUT RANSFORD YEBOAH"
-        pageHeading="Frontend Developer"
-        extraText="I am a Frontend developer and a Creative designer based in Accra, Ghana"
+        pageHeading="Design & Development"
+        extraText="I am a Software Engineer and a Creative designer based in Accra, Ghana"
       />
       <AboutMe />
       <Skills />
