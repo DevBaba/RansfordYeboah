@@ -89,7 +89,7 @@ const Header: React.FunctionComponent<HeaderProps> = () => {
         <div onClick={handleHomeClick}>
           <div className="logo">
             <img
-              src="https://res.cloudinary.com/daysgbjom/image/upload/v1792461895/final_jwalyu1_vyclkeDD_fqbaip.png"
+              src="https://res.cloudinary.com/daysgbjom/image/upload/v1792487530/final_jwalyu1_vyclkede_keqivl.png"
               alt="Ransford Yeboah"
               draggable={false}
             />
@@ -167,7 +167,7 @@ const Header: React.FunctionComponent<HeaderProps> = () => {
         <div onClick={handleHomeClick}>
           <div className="logo">
             <img
-              src="https://res.cloudinary.com/daysgbjom/image/upload/v1792461895/final_jwalyu1_vyclkeDD_fqbaip.png"
+              src="https://res.cloudinary.com/daysgbjom/image/upload/v1792487530/final_jwalyu1_vyclkede_keqivl.png"
               alt="Ransford Yeboah"
               draggable={false}
             />
