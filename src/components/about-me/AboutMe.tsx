@@ -21,7 +21,7 @@ const AboutMe: React.FunctionComponent<AboutMeProps> = () => {
             once
           />
           <p className={theme.isDarkmode ? "deetsTDark" : "deetsT"}>
-            I am a Software and a Creative designer with a 4 and Half years of professional experience
+            I am a Software Engineer and a Creative designer with a 4 and Half years of professional experience
             based in Accra, Ghana. I have a serious passion for UI effects and
             animations, building pixel perfect mobile and web applications, creating
             dynamic user experiences and making every element on the web
