@@ -38,7 +38,7 @@ export const projects = [
       "I created this piece to explore the experience of living between inherited tradition and modern influence. It reflects a generation shaped by ancestral culture while moving through a global, contemporary world. Rather than choosing one over the other, the work argues for balance.The colors are symbolic. Red represents passion, struggle, and history. Green speaks to growth, identity, and connection to the land. Gold reflects value, pride, and cultural richness, while black anchors the piece in strength and continuity. Together, they mirror both personal and collective African identity.The emotion this work is meant to trigger is recognition - the quiet feeling of being seen. It invites reflection, not conflict. A sense of pride, curiosity, and belonging, especially for those navigating who they are without losing where they come from.",
     image:
       "https://res.cloudinary.com/daysgbjom/image/upload/v1792485985/ranks_wd3iac_mjgf_q4yzgke_quloxf.png",
-    url: "https://dercolbags.com/",
+    url: "",
   },
 ];
 
