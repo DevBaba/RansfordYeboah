@@ -93,8 +93,8 @@ const Hero: React.FunctionComponent<HeroProps> = () => {
             </p>
             <h2 className="name">I'm Ransford Yeboah</h2>
             <p className="extraDetails">
-              I'm a Frontend Developer and a Creative Designer based in Ghana, I specialize in building
-              exceptional websites, applications, designing break-taking artworks and leaving a positive impact.
+              I'm a Software Engineer and a Creative Designer based in Ghana, I specialize in building
+              responsive applications, designing Artworks, UI/UX and leaving a positive impact wherever I go.
             </p>
             <div className="resumeContainer">
               <a className="resume" href="/ransfordresume.pdf" target="_blank">
