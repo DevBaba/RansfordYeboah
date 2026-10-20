@@ -21,7 +21,7 @@ export const projects = [
     description:
        " specialized AI agent built for the Ghanaian real estate market. It helps first-time buyers, diaspora investors, agents, developers, and professionals navigate land acquisition with guided workflows, document intelligence, red-flag detection, and humanin-the-loop verification.  ",
     image:
-      "https://res.cloudinary.com/daysgbjom/image/upload/v1713348220/aera_askzzs.png",
+      "https://res.cloudinary.com/daysgbjom/image/upload/v1792484302/ranks_wd3iac_mjgf_q4yzgkf_si7txc.png",
     url: "https://quatenne.vercel.app/",
   },
   {
