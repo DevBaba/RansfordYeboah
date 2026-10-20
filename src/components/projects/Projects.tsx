@@ -9,11 +9,11 @@ interface ProjectsProps {}
 
 export const projects = [
   {
-    name: "Graphic Design  works",
+    name: "Creative Design  works",
     description:
-      "These are some  designs i did for an eco-friendly packaging firm.",
+      "These are some  designs i did for some brands and individuals.",
     image:
-      "https://res.cloudinary.com/daysgbjom/image/upload/v1706823834/ranks_wd3iac_mjgf_q4yzgk.png",
+      "https://res.cloudinary.com/daysgbjom/image/upload/v1792482301/ranks_wd3iac_mjgf_q4yzgkjki_xkfzih.png",
     url: "https://www.behance.net/developerpalmadesign",
   },
   {
