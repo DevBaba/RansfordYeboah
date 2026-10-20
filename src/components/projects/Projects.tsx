@@ -17,7 +17,7 @@ export const projects = [
     url: "https://www.behance.net/developerpalmadesign",
   },
   {
-    name: "Quatenne Assistant from Quatenne Group",
+    name: "Quatenne Assistant",
     description:
        " specialized AI agent built for the Ghanaian real estate market. It helps first-time buyers, diaspora investors, agents, developers, and professionals navigate land acquisition with guided workflows, document intelligence, red-flag detection, and humanin-the-loop verification.  ",
     image:
